@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
     <version>1.1.0.4</version>
-    <url>https://github.com/NovaCityFR/launcher/raw/refs/heads/main/executable.zip</url>
+    <url>https://github.com/NovaCityFR/launcher/raw/refs/heads/main/NovaCityLauncher.exe</url>
     <!-- <changelog>New Launcher Available</changelog> -->
     <mandatory>true</mandatory>
 </item>
